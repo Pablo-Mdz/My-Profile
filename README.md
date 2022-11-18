@@ -1,14 +1,14 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Pablo Cigoy</h1>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Pablo Cigoy</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina living in Berlin, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-mdz&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-mdz" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJs, MongoDB, Express, Java Script**
+ 🌱 I’m currently learning **React, NodeJs, MongoDB, Express, Java Script**
 
-- 👨‍💻 You can see my Web Page here: [http://www.pablocigoy.com/](http://www.pablocigoy.com/)
+ 👨‍💻 You can see my Web Page here: [http://www.pablocigoy.com/](http://www.pablocigoy.com/)
 
-- ⚡ Fun fact **I am an optimistic person who likes to work in a team!💪🏼**
+ ⚡ Fun fact **I am an optimistic person who likes to work in a team!💪🏼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
